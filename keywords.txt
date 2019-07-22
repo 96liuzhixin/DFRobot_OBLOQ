@@ -1,0 +1,43 @@
+#######################################
+# Syntax Coloring DFRobot_OBLOQ
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+DFRobot_OBLOQ	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+begin	KEYWORD2
+wifiBegin	KEYWORD2
+mqttBegin	KEYWORD2
+httpBegin	KEYWORD2
+sendPing	KEYWORD2
+reConnectWifi	KEYWORD2
+disConnectWifi	KEYWORD2
+subscribe	KEYWORD2
+publish	KEYWORD2
+httpGet	KEYWORD2
+httpPost	KEYWORD2
+httpPut	KEYWORD2
+pingState	KEYWORD2
+getWifiIp	KEYWORD2
+getVersion	KEYWORD2
+setCallback	KEYWORD2
+loop	KEYWORD2
+getWifiState	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+
+#######################################
+WIFI_NO_CON	LITERAL1
+WIFI_RUN_CON	LITERAL1
+WIFI_SUCCESS_CON	LITERAL1
+
+
+
